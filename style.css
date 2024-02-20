@@ -1,0 +1,16 @@
+body{
+    margin-top: 300px;
+}
+
+.calculo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: center;
+}
+.resultado{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: center;
+}
